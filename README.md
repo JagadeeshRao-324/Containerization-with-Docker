@@ -17,11 +17,10 @@ This repository contains a React application that is containerized using Docker,
 ## Prerequisites
 
 - Azure subscription
-- Azure CLI installed and logged in
 - Azure DevOps organization with access to Azure Pipelines
 - Docker installed on your build agent (e.g., Azure Pipelines hosted agent)
 - An Azure Container Registry created
-- An Azure Container Instance created or configured via pipeline
+- An Azure Container Instance configured via pipeline
 
 ---
 
@@ -33,10 +32,4 @@ This repository contains a React application that is containerized using Docker,
 
 ---
 
-## Usage
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/your-react-repo.git
-cd your-react-repo
