@@ -32,4 +32,9 @@ This repository contains a React application that is containerized using Docker,
 
 ---
 
+![Image](https://github.com/user-attachments/assets/f1078b0f-2784-4de8-92dc-3e839aaa7de8)
 
+
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/fcf57e39-85c1-4b17-92a3-5da3894ad9ab" />
+
+![Image](https://github.com/user-attachments/assets/d942b08d-71d0-4ac3-a185-0655a695f8d9)
