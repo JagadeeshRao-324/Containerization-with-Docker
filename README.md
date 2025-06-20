@@ -26,7 +26,7 @@ This repository contains a React application that is containerized using Docker,
 
 ## Pipeline Workflow
 
-1. **Build**: The React app is built and Docker image is created using the Dockerfile.
+1. **Build**: The Docker image for the React app is created using the Dockerfile.
 2. **Push**: The Docker image is pushed to the Azure Container Registry.
 3. **Deploy**: The latest Docker image is deployed to Azure Container Instance.
 
