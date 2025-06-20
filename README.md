@@ -1,4 +1,4 @@
-# React App Deployment with Docker, Azure Container Registry, and Azure Container Instance
+# React App Deployed with Docker on Azure Container Instances
 
 This repository contains a React application that is containerized using Docker, pushed to Azure Container Registry (ACR), and deployed to Azure Container Instance (ACI) through an automated Azure Pipelines CI/CD process.
 
